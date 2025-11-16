@@ -1,0 +1,1002 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": 0,
+        "mnemonic": "aload_0",
+        "byte_index": 0,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 1,
+        "mnemonic": "invokespecial",
+        "byte_index": 1,
+        "size": 3,
+        "hex": "B70001"
+      },
+      {
+        "id": 2,
+        "mnemonic": "aload_0",
+        "byte_index": 4,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 3,
+        "mnemonic": "iload_3",
+        "byte_index": 5,
+        "size": 1,
+        "hex": "1D"
+      },
+      {
+        "id": 4,
+        "mnemonic": "putfield",
+        "byte_index": 6,
+        "size": 3,
+        "hex": "B50007"
+      },
+      {
+        "id": 5,
+        "mnemonic": "aload_0",
+        "byte_index": 9,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 6,
+        "mnemonic": "fload",
+        "byte_index": 10,
+        "size": 2,
+        "hex": "1704"
+      },
+      {
+        "id": 7,
+        "mnemonic": "putfield",
+        "byte_index": 12,
+        "size": 3,
+        "hex": "B5000D"
+      },
+      {
+        "id": 8,
+        "mnemonic": "aload_0",
+        "byte_index": 15,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 9,
+        "mnemonic": "iload_1",
+        "byte_index": 16,
+        "size": 1,
+        "hex": "1B"
+      },
+      {
+        "id": 10,
+        "mnemonic": "putfield",
+        "byte_index": 17,
+        "size": 3,
+        "hex": "B50011"
+      },
+      {
+        "id": 11,
+        "mnemonic": "aload_0",
+        "byte_index": 20,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 12,
+        "mnemonic": "iload_1",
+        "byte_index": 21,
+        "size": 1,
+        "hex": "1B"
+      },
+      {
+        "id": 13,
+        "mnemonic": "iconst_1",
+        "byte_index": 22,
+        "size": 1,
+        "hex": "04"
+      },
+      {
+        "id": 14,
+        "mnemonic": "iadd",
+        "byte_index": 23,
+        "size": 1,
+        "hex": "60"
+      },
+      {
+        "id": 15,
+        "mnemonic": "putfield",
+        "byte_index": 24,
+        "size": 3,
+        "hex": "B50014"
+      },
+      {
+        "id": 16,
+        "mnemonic": "aload_0",
+        "byte_index": 27,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 17,
+        "mnemonic": "iload_2",
+        "byte_index": 28,
+        "size": 1,
+        "hex": "1C"
+      },
+      {
+        "id": 18,
+        "mnemonic": "putfield",
+        "byte_index": 29,
+        "size": 3,
+        "hex": "B50017"
+      },
+      {
+        "id": 19,
+        "mnemonic": "aload_0",
+        "byte_index": 32,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 20,
+        "mnemonic": "aload_0",
+        "byte_index": 33,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 21,
+        "mnemonic": "getfield",
+        "byte_index": 34,
+        "size": 3,
+        "hex": "B40017"
+      },
+      {
+        "id": 22,
+        "mnemonic": "newarray",
+        "byte_index": 37,
+        "size": 1,
+        "hex": "BC"
+      },
+      {
+        "id": 23,
+        "mnemonic": "putfield",
+        "byte_index": 38,
+        "size": 3,
+        "hex": "B5001A"
+      },
+      {
+        "id": 24,
+        "mnemonic": "aload_0",
+        "byte_index": 41,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 25,
+        "mnemonic": "aload_0",
+        "byte_index": 42,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 26,
+        "mnemonic": "getfield",
+        "byte_index": 43,
+        "size": 3,
+        "hex": "B40014"
+      },
+      {
+        "id": 27,
+        "mnemonic": "iconst_1",
+        "byte_index": 46,
+        "size": 1,
+        "hex": "04"
+      },
+      {
+        "id": 28,
+        "mnemonic": "multianewarray",
+        "byte_index": 47,
+        "size": 4,
+        "hex": "C5001E02"
+      },
+      {
+        "id": 29,
+        "mnemonic": "putfield",
+        "byte_index": 51,
+        "size": 3,
+        "hex": "B50020"
+      },
+      {
+        "id": 30,
+        "mnemonic": "aload_0",
+        "byte_index": 54,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 31,
+        "mnemonic": "iload_2",
+        "byte_index": 55,
+        "size": 1,
+        "hex": "1C"
+      },
+      {
+        "id": 32,
+        "mnemonic": "aload_0",
+        "byte_index": 56,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 33,
+        "mnemonic": "getfield",
+        "byte_index": 57,
+        "size": 3,
+        "hex": "B40014"
+      },
+      {
+        "id": 34,
+        "mnemonic": "multianewarray",
+        "byte_index": 60,
+        "size": 4,
+        "hex": "C5001E02"
+      },
+      {
+        "id": 35,
+        "mnemonic": "putfield",
+        "byte_index": 64,
+        "size": 3,
+        "hex": "B50023"
+      },
+      {
+        "id": 36,
+        "mnemonic": "new",
+        "byte_index": 67,
+        "size": 3,
+        "hex": "BB0026"
+      },
+      {
+        "id": 37,
+        "mnemonic": "dup",
+        "byte_index": 70,
+        "size": 1,
+        "hex": "59"
+      },
+      {
+        "id": 38,
+        "mnemonic": "invokespecial",
+        "byte_index": 71,
+        "size": 3,
+        "hex": "B70028"
+      },
+      {
+        "id": 39,
+        "mnemonic": "astore",
+        "byte_index": 74,
+        "size": 2,
+        "hex": "3A05"
+      },
+      {
+        "id": 40,
+        "mnemonic": "aload_0",
+        "byte_index": 76,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 41,
+        "mnemonic": "getfield",
+        "byte_index": 77,
+        "size": 3,
+        "hex": "B40007"
+      },
+      {
+        "id": 42,
+        "mnemonic": "ifne",
+        "byte_index": -1,
+        "size": -1
+      },
+      {
+        "id": 43,
+        "mnemonic": "ldc",
+        "byte_index": 83,
+        "size": 3,
+        "hex": "140029"
+      },
+      {
+        "id": 44,
+        "mnemonic": "aload_0",
+        "byte_index": 86,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 45,
+        "mnemonic": "getfield",
+        "byte_index": 87,
+        "size": 3,
+        "hex": "B40011"
+      },
+      {
+        "id": 46,
+        "mnemonic": "i2d",
+        "byte_index": 90,
+        "size": 1,
+        "hex": "87"
+      },
+      {
+        "id": 47,
+        "mnemonic": "ddiv",
+        "byte_index": 91,
+        "size": 1,
+        "hex": "6F"
+      },
+      {
+        "id": 48,
+        "mnemonic": "invokestatic",
+        "byte_index": 92,
+        "size": 3,
+        "hex": "B8002B"
+      },
+      {
+        "id": 49,
+        "mnemonic": "d2f",
+        "byte_index": 95,
+        "size": 1,
+        "hex": "90"
+      },
+      {
+        "id": 50,
+        "mnemonic": "fstore",
+        "byte_index": 96,
+        "size": 2,
+        "hex": "3806"
+      },
+      {
+        "id": 51,
+        "mnemonic": "goto",
+        "byte_index": 98,
+        "size": 3,
+        "hex": "A70010"
+      },
+      {
+        "id": 52,
+        "mnemonic": "dconst_1",
+        "byte_index": -1,
+        "size": -1
+      },
+      {
+        "id": 53,
+        "mnemonic": "aload_0",
+        "byte_index": 102,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 54,
+        "mnemonic": "getfield",
+        "byte_index": 103,
+        "size": 3,
+        "hex": "B40011"
+      },
+      {
+        "id": 55,
+        "mnemonic": "i2d",
+        "byte_index": 106,
+        "size": 1,
+        "hex": "87"
+      },
+      {
+        "id": 56,
+        "mnemonic": "ddiv",
+        "byte_index": 107,
+        "size": 1,
+        "hex": "6F"
+      },
+      {
+        "id": 57,
+        "mnemonic": "invokestatic",
+        "byte_index": 108,
+        "size": 3,
+        "hex": "B8002B"
+      },
+      {
+        "id": 58,
+        "mnemonic": "d2f",
+        "byte_index": 111,
+        "size": 1,
+        "hex": "90"
+      },
+      {
+        "id": 59,
+        "mnemonic": "fstore",
+        "byte_index": 112,
+        "size": 2,
+        "hex": "3806"
+      },
+      {
+        "id": 60,
+        "mnemonic": "iconst_0",
+        "byte_index": 114,
+        "size": 1,
+        "hex": "03"
+      },
+      {
+        "id": 61,
+        "mnemonic": "istore",
+        "byte_index": 115,
+        "size": 2,
+        "hex": "3607"
+      },
+      {
+        "id": 62,
+        "mnemonic": "iload",
+        "byte_index": 117,
+        "size": 2,
+        "hex": "1507"
+      },
+      {
+        "id": 63,
+        "mnemonic": "aload_0",
+        "byte_index": 119,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 64,
+        "mnemonic": "getfield",
+        "byte_index": 120,
+        "size": 3,
+        "hex": "B40011"
+      },
+      {
+        "id": 65,
+        "mnemonic": "if_icmpge",
+        "byte_index": 123,
+        "size": 3,
+        "hex": "A2001B"
+      },
+      {
+        "id": 66,
+        "mnemonic": "aload_0",
+        "byte_index": 126,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 67,
+        "mnemonic": "getfield",
+        "byte_index": 127,
+        "size": 3,
+        "hex": "B40020"
+      },
+      {
+        "id": 68,
+        "mnemonic": "iload",
+        "byte_index": 130,
+        "size": 2,
+        "hex": "1507"
+      },
+      {
+        "id": 69,
+        "mnemonic": "aaload",
+        "byte_index": 132,
+        "size": 1,
+        "hex": "32"
+      },
+      {
+        "id": 70,
+        "mnemonic": "iconst_0",
+        "byte_index": 133,
+        "size": 1,
+        "hex": "03"
+      },
+      {
+        "id": 71,
+        "mnemonic": "aload",
+        "byte_index": 134,
+        "size": 2,
+        "hex": "1905"
+      },
+      {
+        "id": 72,
+        "mnemonic": "invokevirtual",
+        "byte_index": 136,
+        "size": 3,
+        "hex": "B60031"
+      },
+      {
+        "id": 73,
+        "mnemonic": "d2f",
+        "byte_index": 139,
+        "size": 1,
+        "hex": "90"
+      },
+      {
+        "id": 74,
+        "mnemonic": "fload",
+        "byte_index": 140,
+        "size": 2,
+        "hex": "1706"
+      },
+      {
+        "id": 75,
+        "mnemonic": "fmul",
+        "byte_index": 142,
+        "size": 1,
+        "hex": "6A"
+      },
+      {
+        "id": 76,
+        "mnemonic": "fastore",
+        "byte_index": 143,
+        "size": 1,
+        "hex": "51"
+      },
+      {
+        "id": 77,
+        "mnemonic": "iinc",
+        "byte_index": 144,
+        "size": 3,
+        "hex": "840701"
+      },
+      {
+        "id": 78,
+        "mnemonic": "goto",
+        "byte_index": 147,
+        "size": 3,
+        "hex": "A7FFE2"
+      },
+      {
+        "id": 79,
+        "mnemonic": "aload_0",
+        "byte_index": 150,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 80,
+        "mnemonic": "getfield",
+        "byte_index": 151,
+        "size": 3,
+        "hex": "B40020"
+      },
+      {
+        "id": 81,
+        "mnemonic": "aload_0",
+        "byte_index": 154,
+        "size": 1,
+        "hex": "2A"
+      },
+      {
+        "id": 82,
+        "mnemonic": "getfield",
+        "byte_index": 155,
+        "size": 3,
+        "hex": "B40014"
+      },
+      {
+        "id": 83,
+        "mnemonic": "iconst_1",
+        "byte_index": 158,
+        "size": 1,
+        "hex": "04"
+      },
+      {
+        "id": 84,
+        "mnemonic": "isub",
+        "byte_index": 159,
+        "size": 1,
+        "hex": "64"
+      },
+      {
+        "id": 85,
+        "mnemonic": "aaload",
+        "byte_index": 160,
+        "size": 1,
+        "hex": "32"
+      },
+      {
+        "id": 86,
+        "mnemonic": "iconst_0",
+        "byte_index": 161,
+        "size": 1,
+        "hex": "03"
+      },
+      {
+        "id": 87,
+        "mnemonic": "fconst_0",
+        "byte_index": 162,
+        "size": 1,
+        "hex": "0B"
+      },
+      {
+        "id": 88,
+        "mnemonic": "fastore",
+        "byte_index": 163,
+        "size": 1,
+        "hex": "51"
+      },
+      {
+        "id": 89,
+        "mnemonic": "return",
+        "byte_index": 164,
+        "size": 5,
+        "hex": "B100000003"
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        22,
+        23
+      ],
+      [
+        23,
+        24
+      ],
+      [
+        24,
+        25
+      ],
+      [
+        25,
+        26
+      ],
+      [
+        26,
+        27
+      ],
+      [
+        27,
+        28
+      ],
+      [
+        28,
+        29
+      ],
+      [
+        29,
+        30
+      ],
+      [
+        30,
+        31
+      ],
+      [
+        31,
+        32
+      ],
+      [
+        32,
+        33
+      ],
+      [
+        33,
+        34
+      ],
+      [
+        34,
+        35
+      ],
+      [
+        35,
+        36
+      ],
+      [
+        36,
+        37
+      ],
+      [
+        37,
+        38
+      ],
+      [
+        38,
+        39
+      ],
+      [
+        39,
+        40
+      ],
+      [
+        40,
+        41
+      ],
+      [
+        41,
+        42
+      ],
+      [
+        42,
+        43
+      ],
+      [
+        42,
+        52
+      ],
+      [
+        43,
+        44
+      ],
+      [
+        44,
+        45
+      ],
+      [
+        45,
+        46
+      ],
+      [
+        46,
+        47
+      ],
+      [
+        47,
+        48
+      ],
+      [
+        48,
+        49
+      ],
+      [
+        49,
+        50
+      ],
+      [
+        50,
+        51
+      ],
+      [
+        51,
+        60
+      ],
+      [
+        52,
+        53
+      ],
+      [
+        53,
+        54
+      ],
+      [
+        54,
+        55
+      ],
+      [
+        55,
+        56
+      ],
+      [
+        56,
+        57
+      ],
+      [
+        57,
+        58
+      ],
+      [
+        58,
+        59
+      ],
+      [
+        59,
+        60
+      ],
+      [
+        60,
+        61
+      ],
+      [
+        61,
+        62
+      ],
+      [
+        62,
+        63
+      ],
+      [
+        63,
+        64
+      ],
+      [
+        64,
+        65
+      ],
+      [
+        65,
+        66
+      ],
+      [
+        65,
+        79
+      ],
+      [
+        66,
+        67
+      ],
+      [
+        67,
+        68
+      ],
+      [
+        68,
+        69
+      ],
+      [
+        69,
+        70
+      ],
+      [
+        70,
+        71
+      ],
+      [
+        71,
+        72
+      ],
+      [
+        72,
+        73
+      ],
+      [
+        73,
+        74
+      ],
+      [
+        74,
+        75
+      ],
+      [
+        75,
+        76
+      ],
+      [
+        76,
+        77
+      ],
+      [
+        77,
+        78
+      ],
+      [
+        78,
+        62
+      ],
+      [
+        79,
+        80
+      ],
+      [
+        80,
+        81
+      ],
+      [
+        81,
+        82
+      ],
+      [
+        82,
+        83
+      ],
+      [
+        83,
+        84
+      ],
+      [
+        84,
+        85
+      ],
+      [
+        85,
+        86
+      ],
+      [
+        86,
+        87
+      ],
+      [
+        87,
+        88
+      ],
+      [
+        88,
+        89
+      ]
+    ]
+  },
+  "method_code_size": 169,
+  "align_score": 174
+}

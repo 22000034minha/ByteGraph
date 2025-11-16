@@ -1,0 +1,122 @@
+{
+  "owner": "edu.handong.csee.isel.machinelearning.DNN_node",
+  "name": "get_derivative",
+  "desc": "(I)I",
+  "score": 10,
+  "asm_nodes": [
+    {
+      "idx": 0,
+      "mnemonic": "aload_0",
+      "line": 142
+    },
+    {
+      "idx": 1,
+      "mnemonic": "getfield",
+      "line": 142
+    },
+    {
+      "idx": 2,
+      "mnemonic": "iload_1",
+      "line": 142
+    },
+    {
+      "idx": 3,
+      "mnemonic": "iaload",
+      "line": 142
+    },
+    {
+      "idx": 4,
+      "mnemonic": "ireturn",
+      "line": 142
+    }
+  ],
+  "asm_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "tok_nodes": [
+    {
+      "idx": 0,
+      "mnemonic": "aload_0",
+      "hex": "2A"
+    },
+    {
+      "idx": 1,
+      "mnemonic": "getfield",
+      "hex": "B4001A"
+    },
+    {
+      "idx": 2,
+      "mnemonic": "iload_1",
+      "hex": "1B"
+    },
+    {
+      "idx": 3,
+      "mnemonic": "iaload",
+      "hex": "2E"
+    },
+    {
+      "idx": 4,
+      "mnemonic": "ireturn",
+      "hex": "AC00000002"
+    }
+  ],
+  "pairs_tok_to_asm": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "pairs_asm_to_tok": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ]
+}
