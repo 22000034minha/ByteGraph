@@ -1,0 +1,44 @@
+{
+  "method": "edu.handong.csee.isel.machinelearning.DNN_node.get_derivative(I)I",
+  "map": [
+    {
+      "asm_id": 0,
+      "tok_id": 0,
+      "byte_index": 0,
+      "size": 1,
+      "hex": "2A"
+    },
+    {
+      "asm_id": 1,
+      "tok_id": 1,
+      "byte_index": 1,
+      "size": 3,
+      "hex": "B4001A"
+    },
+    {
+      "asm_id": 2,
+      "tok_id": 2,
+      "byte_index": 4,
+      "size": 1,
+      "hex": "1B"
+    },
+    {
+      "asm_id": 3,
+      "tok_id": 3,
+      "byte_index": 5,
+      "size": 1,
+      "hex": "2E"
+    },
+    {
+      "asm_id": 4,
+      "tok_id": 4,
+      "byte_index": 6,
+      "size": 1,
+      "hex": "AC00000002"
+    }
+  ],
+  "method_code_size": 7,
+  "align_score": 10,
+  "missing_count": 0,
+  "btok_method_index": 4
+}

@@ -4,6 +4,7 @@
       {
         "id": 0,
         "mnemonic": "aload_0",
+        "line": 142,
         "byte_index": 0,
         "size": 1,
         "hex": "2A"
@@ -11,6 +12,7 @@
       {
         "id": 1,
         "mnemonic": "getfield",
+        "line": 142,
         "byte_index": 1,
         "size": 3,
         "hex": "B4001A"
@@ -18,6 +20,7 @@
       {
         "id": 2,
         "mnemonic": "iload_1",
+        "line": 142,
         "byte_index": 4,
         "size": 1,
         "hex": "1B"
@@ -25,6 +28,7 @@
       {
         "id": 3,
         "mnemonic": "iaload",
+        "line": 142,
         "byte_index": 5,
         "size": 1,
         "hex": "2E"
@@ -32,8 +36,9 @@
       {
         "id": 4,
         "mnemonic": "ireturn",
+        "line": 142,
         "byte_index": 6,
-        "size": 5,
+        "size": 1,
         "hex": "AC00000002"
       }
     ],
@@ -56,6 +61,19 @@
       ]
     ]
   },
-  "method_code_size": 11,
+  "edges_typed": [],
+  "dfg": {
+    "edges": [],
+    "edge_count": 0,
+    "status": [
+      "empty",
+      "soot_units\u003d5 typed_edges\u003d0"
+    ]
+  },
+  "node_count": 5,
+  "struct_warnings": [
+    "soot_units\u003d5 typed_edges\u003d0"
+  ],
+  "method_code_size": 7,
   "align_score": 10
 }

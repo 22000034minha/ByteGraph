@@ -4,6 +4,7 @@
       {
         "id": 0,
         "mnemonic": "aload_1",
+        "line": 156,
         "byte_index": 0,
         "size": 1,
         "hex": "2B"
@@ -11,6 +12,7 @@
       {
         "id": 1,
         "mnemonic": "arraylength",
+        "line": 156,
         "byte_index": 1,
         "size": 1,
         "hex": "BE"
@@ -18,6 +20,7 @@
       {
         "id": 2,
         "mnemonic": "istore_3",
+        "line": 156,
         "byte_index": 2,
         "size": 1,
         "hex": "3E"
@@ -25,6 +28,7 @@
       {
         "id": 3,
         "mnemonic": "aload_1",
+        "line": 156,
         "byte_index": 3,
         "size": 1,
         "hex": "2B"
@@ -32,6 +36,7 @@
       {
         "id": 4,
         "mnemonic": "iconst_0",
+        "line": 156,
         "byte_index": 4,
         "size": 1,
         "hex": "03"
@@ -39,6 +44,7 @@
       {
         "id": 5,
         "mnemonic": "aaload",
+        "line": 156,
         "byte_index": 5,
         "size": 1,
         "hex": "32"
@@ -46,6 +52,7 @@
       {
         "id": 6,
         "mnemonic": "arraylength",
+        "line": 156,
         "byte_index": 6,
         "size": 1,
         "hex": "BE"
@@ -53,6 +60,7 @@
       {
         "id": 7,
         "mnemonic": "istore",
+        "line": 156,
         "byte_index": 7,
         "size": 2,
         "hex": "3604"
@@ -60,6 +68,7 @@
       {
         "id": 8,
         "mnemonic": "aload_2",
+        "line": 156,
         "byte_index": 9,
         "size": 1,
         "hex": "2C"
@@ -67,6 +76,7 @@
       {
         "id": 9,
         "mnemonic": "iconst_0",
+        "line": 156,
         "byte_index": 10,
         "size": 1,
         "hex": "03"
@@ -74,6 +84,7 @@
       {
         "id": 10,
         "mnemonic": "aaload",
+        "line": 156,
         "byte_index": 11,
         "size": 1,
         "hex": "32"
@@ -81,6 +92,7 @@
       {
         "id": 11,
         "mnemonic": "arraylength",
+        "line": 156,
         "byte_index": 12,
         "size": 1,
         "hex": "BE"
@@ -88,6 +100,7 @@
       {
         "id": 12,
         "mnemonic": "istore",
+        "line": 156,
         "byte_index": 13,
         "size": 2,
         "hex": "3605"
@@ -95,6 +108,7 @@
       {
         "id": 13,
         "mnemonic": "iload_3",
+        "line": 158,
         "byte_index": 15,
         "size": 1,
         "hex": "1D"
@@ -102,6 +116,7 @@
       {
         "id": 14,
         "mnemonic": "iload",
+        "line": 158,
         "byte_index": 16,
         "size": 2,
         "hex": "1505"
@@ -109,6 +124,7 @@
       {
         "id": 15,
         "mnemonic": "multianewarray",
+        "line": 158,
         "byte_index": 18,
         "size": 4,
         "hex": "C5001E02"
@@ -116,6 +132,7 @@
       {
         "id": 16,
         "mnemonic": "astore",
+        "line": 158,
         "byte_index": 22,
         "size": 2,
         "hex": "3A06"
@@ -123,6 +140,7 @@
       {
         "id": 17,
         "mnemonic": "iconst_0",
+        "line": 159,
         "byte_index": 24,
         "size": 1,
         "hex": "03"
@@ -130,6 +148,7 @@
       {
         "id": 18,
         "mnemonic": "istore",
+        "line": 159,
         "byte_index": 25,
         "size": 2,
         "hex": "3607"
@@ -137,6 +156,7 @@
       {
         "id": 19,
         "mnemonic": "iload",
+        "line": 159,
         "byte_index": 27,
         "size": 2,
         "hex": "1507"
@@ -144,6 +164,7 @@
       {
         "id": 20,
         "mnemonic": "iload_3",
+        "line": 159,
         "byte_index": 29,
         "size": 1,
         "hex": "1D"
@@ -151,6 +172,7 @@
       {
         "id": 21,
         "mnemonic": "if_icmpge",
+        "line": 159,
         "byte_index": 30,
         "size": 3,
         "hex": "A20043"
@@ -158,6 +180,7 @@
       {
         "id": 22,
         "mnemonic": "iconst_0",
+        "line": 160,
         "byte_index": 33,
         "size": 1,
         "hex": "03"
@@ -165,6 +188,7 @@
       {
         "id": 23,
         "mnemonic": "istore",
+        "line": 160,
         "byte_index": 34,
         "size": 2,
         "hex": "3608"
@@ -172,6 +196,7 @@
       {
         "id": 24,
         "mnemonic": "iload",
+        "line": 160,
         "byte_index": 36,
         "size": 2,
         "hex": "1508"
@@ -179,6 +204,7 @@
       {
         "id": 25,
         "mnemonic": "iload",
+        "line": 160,
         "byte_index": 38,
         "size": 2,
         "hex": "1505"
@@ -186,6 +212,7 @@
       {
         "id": 26,
         "mnemonic": "if_icmpge",
+        "line": 160,
         "byte_index": 40,
         "size": 3,
         "hex": "A20033"
@@ -193,6 +220,7 @@
       {
         "id": 27,
         "mnemonic": "iconst_0",
+        "line": 161,
         "byte_index": 43,
         "size": 1,
         "hex": "03"
@@ -200,6 +228,7 @@
       {
         "id": 28,
         "mnemonic": "istore",
+        "line": 161,
         "byte_index": 44,
         "size": 2,
         "hex": "3609"
@@ -207,6 +236,7 @@
       {
         "id": 29,
         "mnemonic": "iload",
+        "line": 161,
         "byte_index": 46,
         "size": 2,
         "hex": "1509"
@@ -214,6 +244,7 @@
       {
         "id": 30,
         "mnemonic": "iload",
+        "line": 161,
         "byte_index": 48,
         "size": 2,
         "hex": "1504"
@@ -221,6 +252,7 @@
       {
         "id": 31,
         "mnemonic": "if_icmpge",
+        "line": 161,
         "byte_index": 50,
         "size": 3,
         "hex": "A20023"
@@ -228,6 +260,7 @@
       {
         "id": 32,
         "mnemonic": "aload",
+        "line": 162,
         "byte_index": 53,
         "size": 2,
         "hex": "1906"
@@ -235,6 +268,7 @@
       {
         "id": 33,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 55,
         "size": 2,
         "hex": "1507"
@@ -242,6 +276,7 @@
       {
         "id": 34,
         "mnemonic": "aaload",
+        "line": 162,
         "byte_index": 57,
         "size": 1,
         "hex": "32"
@@ -249,6 +284,7 @@
       {
         "id": 35,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 58,
         "size": 2,
         "hex": "1508"
@@ -256,6 +292,7 @@
       {
         "id": 36,
         "mnemonic": "dup2",
+        "line": 162,
         "byte_index": 60,
         "size": 1,
         "hex": "5C"
@@ -263,6 +300,7 @@
       {
         "id": 37,
         "mnemonic": "faload",
+        "line": 162,
         "byte_index": 61,
         "size": 1,
         "hex": "30"
@@ -270,6 +308,7 @@
       {
         "id": 38,
         "mnemonic": "aload_1",
+        "line": 162,
         "byte_index": 62,
         "size": 1,
         "hex": "2B"
@@ -277,6 +316,7 @@
       {
         "id": 39,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 63,
         "size": 2,
         "hex": "1507"
@@ -284,6 +324,7 @@
       {
         "id": 40,
         "mnemonic": "aaload",
+        "line": 162,
         "byte_index": 65,
         "size": 1,
         "hex": "32"
@@ -291,6 +332,7 @@
       {
         "id": 41,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 66,
         "size": 2,
         "hex": "1509"
@@ -298,6 +340,7 @@
       {
         "id": 42,
         "mnemonic": "faload",
+        "line": 162,
         "byte_index": 68,
         "size": 1,
         "hex": "30"
@@ -305,6 +348,7 @@
       {
         "id": 43,
         "mnemonic": "aload_2",
+        "line": 162,
         "byte_index": 69,
         "size": 1,
         "hex": "2C"
@@ -312,6 +356,7 @@
       {
         "id": 44,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 70,
         "size": 2,
         "hex": "1509"
@@ -319,6 +364,7 @@
       {
         "id": 45,
         "mnemonic": "aaload",
+        "line": 162,
         "byte_index": 72,
         "size": 1,
         "hex": "32"
@@ -326,6 +372,7 @@
       {
         "id": 46,
         "mnemonic": "iload",
+        "line": 162,
         "byte_index": 73,
         "size": 2,
         "hex": "1508"
@@ -333,6 +380,7 @@
       {
         "id": 47,
         "mnemonic": "faload",
+        "line": 162,
         "byte_index": 75,
         "size": 1,
         "hex": "30"
@@ -340,6 +388,7 @@
       {
         "id": 48,
         "mnemonic": "fmul",
+        "line": 162,
         "byte_index": 76,
         "size": 1,
         "hex": "6A"
@@ -347,6 +396,7 @@
       {
         "id": 49,
         "mnemonic": "fadd",
+        "line": 162,
         "byte_index": 77,
         "size": 1,
         "hex": "62"
@@ -354,6 +404,7 @@
       {
         "id": 50,
         "mnemonic": "fastore",
+        "line": 162,
         "byte_index": 78,
         "size": 1,
         "hex": "51"
@@ -361,6 +412,7 @@
       {
         "id": 51,
         "mnemonic": "iinc",
+        "line": 161,
         "byte_index": 79,
         "size": 3,
         "hex": "840901"
@@ -368,6 +420,7 @@
       {
         "id": 52,
         "mnemonic": "goto",
+        "line": 161,
         "byte_index": 82,
         "size": 3,
         "hex": "A7FFDC"
@@ -375,6 +428,7 @@
       {
         "id": 53,
         "mnemonic": "iinc",
+        "line": 160,
         "byte_index": 85,
         "size": 3,
         "hex": "840801"
@@ -382,6 +436,7 @@
       {
         "id": 54,
         "mnemonic": "goto",
+        "line": 160,
         "byte_index": 88,
         "size": 3,
         "hex": "A7FFCC"
@@ -389,6 +444,7 @@
       {
         "id": 55,
         "mnemonic": "iinc",
+        "line": 159,
         "byte_index": 91,
         "size": 3,
         "hex": "840701"
@@ -396,6 +452,7 @@
       {
         "id": 56,
         "mnemonic": "goto",
+        "line": 159,
         "byte_index": 94,
         "size": 3,
         "hex": "A7FFBD"
@@ -403,6 +460,7 @@
       {
         "id": 57,
         "mnemonic": "aload",
+        "line": 164,
         "byte_index": 97,
         "size": 2,
         "hex": "1906"
@@ -410,8 +468,9 @@
       {
         "id": 58,
         "mnemonic": "areturn",
+        "line": 164,
         "byte_index": 99,
-        "size": 5,
+        "size": 1,
         "hex": "B000000003"
       }
     ],
@@ -662,6 +721,50 @@
       ]
     ]
   },
-  "method_code_size": 104,
+  "edges_typed": [
+    {
+      "from": 52,
+      "to": 31,
+      "type": "normal"
+    },
+    {
+      "from": 52,
+      "to": 31,
+      "type": "soot_extra"
+    },
+    {
+      "from": 54,
+      "to": 26,
+      "type": "normal"
+    },
+    {
+      "from": 54,
+      "to": 26,
+      "type": "soot_extra"
+    },
+    {
+      "from": 56,
+      "to": 21,
+      "type": "normal"
+    },
+    {
+      "from": 56,
+      "to": 21,
+      "type": "soot_extra"
+    }
+  ],
+  "dfg": {
+    "edges": [],
+    "edge_count": 0,
+    "status": [
+      "empty",
+      "soot_units\u003d31 typed_edges\u003d6"
+    ]
+  },
+  "node_count": 59,
+  "struct_warnings": [
+    "soot_units\u003d31 typed_edges\u003d6"
+  ],
+  "method_code_size": 100,
   "align_score": 118
 }

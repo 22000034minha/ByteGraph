@@ -4,6 +4,7 @@
       {
         "id": 0,
         "mnemonic": "aload_0",
+        "line": 32,
         "byte_index": 0,
         "size": 1,
         "hex": "2A"
@@ -11,6 +12,7 @@
       {
         "id": 1,
         "mnemonic": "invokespecial",
+        "line": 32,
         "byte_index": 1,
         "size": 3,
         "hex": "B70001"
@@ -18,6 +20,7 @@
       {
         "id": 2,
         "mnemonic": "aload_0",
+        "line": 33,
         "byte_index": 4,
         "size": 1,
         "hex": "2A"
@@ -25,6 +28,7 @@
       {
         "id": 3,
         "mnemonic": "iload_3",
+        "line": 33,
         "byte_index": 5,
         "size": 1,
         "hex": "1D"
@@ -32,6 +36,7 @@
       {
         "id": 4,
         "mnemonic": "putfield",
+        "line": 33,
         "byte_index": 6,
         "size": 3,
         "hex": "B50007"
@@ -39,6 +44,7 @@
       {
         "id": 5,
         "mnemonic": "aload_0",
+        "line": 34,
         "byte_index": 9,
         "size": 1,
         "hex": "2A"
@@ -46,6 +52,7 @@
       {
         "id": 6,
         "mnemonic": "fload",
+        "line": 34,
         "byte_index": 10,
         "size": 2,
         "hex": "1704"
@@ -53,6 +60,7 @@
       {
         "id": 7,
         "mnemonic": "putfield",
+        "line": 34,
         "byte_index": 12,
         "size": 3,
         "hex": "B5000D"
@@ -60,6 +68,7 @@
       {
         "id": 8,
         "mnemonic": "aload_0",
+        "line": 35,
         "byte_index": 15,
         "size": 1,
         "hex": "2A"
@@ -67,6 +76,7 @@
       {
         "id": 9,
         "mnemonic": "iload_1",
+        "line": 35,
         "byte_index": 16,
         "size": 1,
         "hex": "1B"
@@ -74,6 +84,7 @@
       {
         "id": 10,
         "mnemonic": "putfield",
+        "line": 35,
         "byte_index": 17,
         "size": 3,
         "hex": "B50011"
@@ -81,6 +92,7 @@
       {
         "id": 11,
         "mnemonic": "aload_0",
+        "line": 36,
         "byte_index": 20,
         "size": 1,
         "hex": "2A"
@@ -88,6 +100,7 @@
       {
         "id": 12,
         "mnemonic": "iload_1",
+        "line": 36,
         "byte_index": 21,
         "size": 1,
         "hex": "1B"
@@ -95,6 +108,7 @@
       {
         "id": 13,
         "mnemonic": "iconst_1",
+        "line": 36,
         "byte_index": 22,
         "size": 1,
         "hex": "04"
@@ -102,6 +116,7 @@
       {
         "id": 14,
         "mnemonic": "iadd",
+        "line": 36,
         "byte_index": 23,
         "size": 1,
         "hex": "60"
@@ -109,6 +124,7 @@
       {
         "id": 15,
         "mnemonic": "putfield",
+        "line": 36,
         "byte_index": 24,
         "size": 3,
         "hex": "B50014"
@@ -116,6 +132,7 @@
       {
         "id": 16,
         "mnemonic": "aload_0",
+        "line": 37,
         "byte_index": 27,
         "size": 1,
         "hex": "2A"
@@ -123,6 +140,7 @@
       {
         "id": 17,
         "mnemonic": "iload_2",
+        "line": 37,
         "byte_index": 28,
         "size": 1,
         "hex": "1C"
@@ -130,6 +148,7 @@
       {
         "id": 18,
         "mnemonic": "putfield",
+        "line": 37,
         "byte_index": 29,
         "size": 3,
         "hex": "B50017"
@@ -137,6 +156,7 @@
       {
         "id": 19,
         "mnemonic": "aload_0",
+        "line": 38,
         "byte_index": 32,
         "size": 1,
         "hex": "2A"
@@ -144,6 +164,7 @@
       {
         "id": 20,
         "mnemonic": "aload_0",
+        "line": 38,
         "byte_index": 33,
         "size": 1,
         "hex": "2A"
@@ -151,6 +172,7 @@
       {
         "id": 21,
         "mnemonic": "getfield",
+        "line": 38,
         "byte_index": 34,
         "size": 3,
         "hex": "B40017"
@@ -158,475 +180,545 @@
       {
         "id": 22,
         "mnemonic": "newarray",
+        "line": 38,
         "byte_index": 37,
-        "size": 1,
+        "size": 2,
         "hex": "BC"
       },
       {
         "id": 23,
         "mnemonic": "putfield",
-        "byte_index": 38,
+        "line": 38,
+        "byte_index": 39,
         "size": 3,
         "hex": "B5001A"
       },
       {
         "id": 24,
         "mnemonic": "aload_0",
-        "byte_index": 41,
+        "line": 41,
+        "byte_index": 42,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 25,
         "mnemonic": "aload_0",
-        "byte_index": 42,
+        "line": 41,
+        "byte_index": 43,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 26,
         "mnemonic": "getfield",
-        "byte_index": 43,
+        "line": 41,
+        "byte_index": 44,
         "size": 3,
         "hex": "B40014"
       },
       {
         "id": 27,
         "mnemonic": "iconst_1",
-        "byte_index": 46,
+        "line": 41,
+        "byte_index": 47,
         "size": 1,
         "hex": "04"
       },
       {
         "id": 28,
         "mnemonic": "multianewarray",
-        "byte_index": 47,
+        "line": 41,
+        "byte_index": 48,
         "size": 4,
         "hex": "C5001E02"
       },
       {
         "id": 29,
         "mnemonic": "putfield",
-        "byte_index": 51,
+        "line": 41,
+        "byte_index": 52,
         "size": 3,
         "hex": "B50020"
       },
       {
         "id": 30,
         "mnemonic": "aload_0",
-        "byte_index": 54,
+        "line": 42,
+        "byte_index": 55,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 31,
         "mnemonic": "iload_2",
-        "byte_index": 55,
+        "line": 42,
+        "byte_index": 56,
         "size": 1,
         "hex": "1C"
       },
       {
         "id": 32,
         "mnemonic": "aload_0",
-        "byte_index": 56,
+        "line": 42,
+        "byte_index": 57,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 33,
         "mnemonic": "getfield",
-        "byte_index": 57,
+        "line": 42,
+        "byte_index": 58,
         "size": 3,
         "hex": "B40014"
       },
       {
         "id": 34,
         "mnemonic": "multianewarray",
-        "byte_index": 60,
+        "line": 42,
+        "byte_index": 61,
         "size": 4,
         "hex": "C5001E02"
       },
       {
         "id": 35,
         "mnemonic": "putfield",
-        "byte_index": 64,
+        "line": 42,
+        "byte_index": 65,
         "size": 3,
         "hex": "B50023"
       },
       {
         "id": 36,
         "mnemonic": "new",
-        "byte_index": 67,
+        "line": 47,
+        "byte_index": 68,
         "size": 3,
         "hex": "BB0026"
       },
       {
         "id": 37,
         "mnemonic": "dup",
-        "byte_index": 70,
+        "line": 47,
+        "byte_index": 71,
         "size": 1,
         "hex": "59"
       },
       {
         "id": 38,
         "mnemonic": "invokespecial",
-        "byte_index": 71,
+        "line": 47,
+        "byte_index": 72,
         "size": 3,
         "hex": "B70028"
       },
       {
         "id": 39,
         "mnemonic": "astore",
-        "byte_index": 74,
+        "line": 47,
+        "byte_index": 75,
         "size": 2,
         "hex": "3A05"
       },
       {
         "id": 40,
         "mnemonic": "aload_0",
-        "byte_index": 76,
+        "line": 50,
+        "byte_index": 77,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 41,
         "mnemonic": "getfield",
-        "byte_index": 77,
+        "line": 50,
+        "byte_index": 78,
         "size": 3,
         "hex": "B40007"
       },
       {
         "id": 42,
         "mnemonic": "ifne",
-        "byte_index": -1,
-        "size": -1
+        "line": 50,
+        "byte_index": 81,
+        "size": 3,
+        "hex": "9A0015"
       },
       {
         "id": 43,
-        "mnemonic": "ldc",
-        "byte_index": 83,
+        "mnemonic": "ldc2_w",
+        "line": 51,
+        "byte_index": 84,
         "size": 3,
         "hex": "140029"
       },
       {
         "id": 44,
         "mnemonic": "aload_0",
-        "byte_index": 86,
+        "line": 51,
+        "byte_index": 87,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 45,
         "mnemonic": "getfield",
-        "byte_index": 87,
+        "line": 51,
+        "byte_index": 88,
         "size": 3,
         "hex": "B40011"
       },
       {
         "id": 46,
         "mnemonic": "i2d",
-        "byte_index": 90,
+        "line": 51,
+        "byte_index": 91,
         "size": 1,
         "hex": "87"
       },
       {
         "id": 47,
         "mnemonic": "ddiv",
-        "byte_index": 91,
+        "line": 51,
+        "byte_index": 92,
         "size": 1,
         "hex": "6F"
       },
       {
         "id": 48,
         "mnemonic": "invokestatic",
-        "byte_index": 92,
+        "line": 51,
+        "byte_index": 93,
         "size": 3,
         "hex": "B8002B"
       },
       {
         "id": 49,
         "mnemonic": "d2f",
-        "byte_index": 95,
+        "line": 51,
+        "byte_index": 96,
         "size": 1,
         "hex": "90"
       },
       {
         "id": 50,
         "mnemonic": "fstore",
-        "byte_index": 96,
+        "line": 51,
+        "byte_index": 97,
         "size": 2,
         "hex": "3806"
       },
       {
         "id": 51,
         "mnemonic": "goto",
-        "byte_index": 98,
+        "line": 51,
+        "byte_index": 99,
         "size": 3,
         "hex": "A70010"
       },
       {
         "id": 52,
         "mnemonic": "dconst_1",
-        "byte_index": -1,
-        "size": -1
+        "line": 54,
+        "byte_index": 102,
+        "size": 1,
+        "hex": "0F"
       },
       {
         "id": 53,
         "mnemonic": "aload_0",
-        "byte_index": 102,
+        "line": 54,
+        "byte_index": 103,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 54,
         "mnemonic": "getfield",
-        "byte_index": 103,
+        "line": 54,
+        "byte_index": 104,
         "size": 3,
         "hex": "B40011"
       },
       {
         "id": 55,
         "mnemonic": "i2d",
-        "byte_index": 106,
+        "line": 54,
+        "byte_index": 107,
         "size": 1,
         "hex": "87"
       },
       {
         "id": 56,
         "mnemonic": "ddiv",
-        "byte_index": 107,
+        "line": 54,
+        "byte_index": 108,
         "size": 1,
         "hex": "6F"
       },
       {
         "id": 57,
         "mnemonic": "invokestatic",
-        "byte_index": 108,
+        "line": 54,
+        "byte_index": 109,
         "size": 3,
         "hex": "B8002B"
       },
       {
         "id": 58,
         "mnemonic": "d2f",
-        "byte_index": 111,
+        "line": 54,
+        "byte_index": 112,
         "size": 1,
         "hex": "90"
       },
       {
         "id": 59,
         "mnemonic": "fstore",
-        "byte_index": 112,
+        "line": 54,
+        "byte_index": 113,
         "size": 2,
         "hex": "3806"
       },
       {
         "id": 60,
         "mnemonic": "iconst_0",
-        "byte_index": 114,
+        "line": 56,
+        "byte_index": 115,
         "size": 1,
         "hex": "03"
       },
       {
         "id": 61,
         "mnemonic": "istore",
-        "byte_index": 115,
+        "line": 56,
+        "byte_index": 116,
         "size": 2,
         "hex": "3607"
       },
       {
         "id": 62,
         "mnemonic": "iload",
-        "byte_index": 117,
+        "line": 56,
+        "byte_index": 118,
         "size": 2,
         "hex": "1507"
       },
       {
         "id": 63,
         "mnemonic": "aload_0",
-        "byte_index": 119,
+        "line": 56,
+        "byte_index": 120,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 64,
         "mnemonic": "getfield",
-        "byte_index": 120,
+        "line": 56,
+        "byte_index": 121,
         "size": 3,
         "hex": "B40011"
       },
       {
         "id": 65,
         "mnemonic": "if_icmpge",
-        "byte_index": 123,
+        "line": 56,
+        "byte_index": 124,
         "size": 3,
         "hex": "A2001B"
       },
       {
         "id": 66,
         "mnemonic": "aload_0",
-        "byte_index": 126,
+        "line": 57,
+        "byte_index": 127,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 67,
         "mnemonic": "getfield",
-        "byte_index": 127,
+        "line": 57,
+        "byte_index": 128,
         "size": 3,
         "hex": "B40020"
       },
       {
         "id": 68,
         "mnemonic": "iload",
-        "byte_index": 130,
+        "line": 57,
+        "byte_index": 131,
         "size": 2,
         "hex": "1507"
       },
       {
         "id": 69,
         "mnemonic": "aaload",
-        "byte_index": 132,
+        "line": 57,
+        "byte_index": 133,
         "size": 1,
         "hex": "32"
       },
       {
         "id": 70,
         "mnemonic": "iconst_0",
-        "byte_index": 133,
+        "line": 57,
+        "byte_index": 134,
         "size": 1,
         "hex": "03"
       },
       {
         "id": 71,
         "mnemonic": "aload",
-        "byte_index": 134,
+        "line": 57,
+        "byte_index": 135,
         "size": 2,
         "hex": "1905"
       },
       {
         "id": 72,
         "mnemonic": "invokevirtual",
-        "byte_index": 136,
+        "line": 57,
+        "byte_index": 137,
         "size": 3,
         "hex": "B60031"
       },
       {
         "id": 73,
         "mnemonic": "d2f",
-        "byte_index": 139,
+        "line": 57,
+        "byte_index": 140,
         "size": 1,
         "hex": "90"
       },
       {
         "id": 74,
         "mnemonic": "fload",
-        "byte_index": 140,
+        "line": 57,
+        "byte_index": 141,
         "size": 2,
         "hex": "1706"
       },
       {
         "id": 75,
         "mnemonic": "fmul",
-        "byte_index": 142,
+        "line": 57,
+        "byte_index": 143,
         "size": 1,
         "hex": "6A"
       },
       {
         "id": 76,
         "mnemonic": "fastore",
-        "byte_index": 143,
+        "line": 57,
+        "byte_index": 144,
         "size": 1,
         "hex": "51"
       },
       {
         "id": 77,
         "mnemonic": "iinc",
-        "byte_index": 144,
+        "line": 56,
+        "byte_index": 145,
         "size": 3,
         "hex": "840701"
       },
       {
         "id": 78,
         "mnemonic": "goto",
-        "byte_index": 147,
+        "line": 56,
+        "byte_index": 148,
         "size": 3,
         "hex": "A7FFE2"
       },
       {
         "id": 79,
         "mnemonic": "aload_0",
-        "byte_index": 150,
+        "line": 61,
+        "byte_index": 151,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 80,
         "mnemonic": "getfield",
-        "byte_index": 151,
+        "line": 61,
+        "byte_index": 152,
         "size": 3,
         "hex": "B40020"
       },
       {
         "id": 81,
         "mnemonic": "aload_0",
-        "byte_index": 154,
+        "line": 61,
+        "byte_index": 155,
         "size": 1,
         "hex": "2A"
       },
       {
         "id": 82,
         "mnemonic": "getfield",
-        "byte_index": 155,
+        "line": 61,
+        "byte_index": 156,
         "size": 3,
         "hex": "B40014"
       },
       {
         "id": 83,
         "mnemonic": "iconst_1",
-        "byte_index": 158,
+        "line": 61,
+        "byte_index": 159,
         "size": 1,
         "hex": "04"
       },
       {
         "id": 84,
         "mnemonic": "isub",
-        "byte_index": 159,
+        "line": 61,
+        "byte_index": 160,
         "size": 1,
         "hex": "64"
       },
       {
         "id": 85,
         "mnemonic": "aaload",
-        "byte_index": 160,
+        "line": 61,
+        "byte_index": 161,
         "size": 1,
         "hex": "32"
       },
       {
         "id": 86,
         "mnemonic": "iconst_0",
-        "byte_index": 161,
+        "line": 61,
+        "byte_index": 162,
         "size": 1,
         "hex": "03"
       },
       {
         "id": 87,
         "mnemonic": "fconst_0",
-        "byte_index": 162,
+        "line": 61,
+        "byte_index": 163,
         "size": 1,
         "hex": "0B"
       },
       {
         "id": 88,
         "mnemonic": "fastore",
-        "byte_index": 163,
+        "line": 61,
+        "byte_index": 164,
         "size": 1,
         "hex": "51"
       },
       {
         "id": 89,
         "mnemonic": "return",
-        "byte_index": 164,
-        "size": 5,
+        "line": 62,
+        "byte_index": 165,
+        "size": 1,
         "hex": "B100000003"
       }
     ],
@@ -997,6 +1089,19 @@
       ]
     ]
   },
-  "method_code_size": 169,
-  "align_score": 174
+  "edges_typed": [],
+  "dfg": {
+    "edges": [],
+    "edge_count": 0,
+    "status": [
+      "empty",
+      "soot_units\u003d53 typed_edges\u003d0"
+    ]
+  },
+  "node_count": 90,
+  "struct_warnings": [
+    "soot_units\u003d53 typed_edges\u003d0"
+  ],
+  "method_code_size": 166,
+  "align_score": 177
 }
